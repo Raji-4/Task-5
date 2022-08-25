@@ -2,7 +2,7 @@
 
 connect the page
 
-<?php
+<php
 // connect to MySQL
 $host = "127.0.0.1";
 $user = "root";
@@ -15,4 +15,4 @@ if (mysqli_connect_errno()) {
 } else {
     echo 'Database is connected';
 }
-?>
+>
