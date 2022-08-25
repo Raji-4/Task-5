@@ -1,6 +1,4 @@
 # Task-5
-#Connect The page
-
 <?php
 // connect to MySQL
 $host = "127.0.0.1";
